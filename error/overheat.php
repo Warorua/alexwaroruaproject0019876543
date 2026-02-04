@@ -8,7 +8,7 @@ if (isset($_GET['error'])) {
 ?>
 <!--begin::Body-->
 
-<body id="kt_body" class="app-blank bgi-size-cover bgi-position-center bgi-no-repeat">
+<body id="kt_body" class="app-blank bgi-size-cover bgi-position-center bgi-no-repeat col-md-12">
 	<!--begin::Theme mode setup on page load-->
 	<script>
 		var defaultThemeMode = "light";
@@ -37,7 +37,7 @@ if (isset($_GET['error'])) {
 	<!--End::Google Tag Manager (noscript) -->
 	<!--begin::Main-->
 	<!--begin::Root-->
-	<div class="d-flex flex-column flex-root col-md-12">
+	<div class="d-flex flex-column flex-root">
 		<!--begin::Page bg image-->
 		<!--end::Page bg image-->
 		<!--begin::Authentication - Signup Welcome Message -->
