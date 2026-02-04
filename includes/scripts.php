@@ -526,7 +526,7 @@ $dm_perc = ($dm * 100) / 1000;
 			customizations: {
 				title: "Kotnova",
 				description: "Refill your gas points",
-				logo: "https://kotnova.com/assets/media/logos/icon.png",
+				logo: "https://kotnova.sbnke.com/assets/media/logos/icon.png",
 			},
 		});
 	}

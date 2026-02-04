@@ -66,14 +66,14 @@
                                         <div style="text-align:center; margin:0 60px 34px 60px">
                                             <!--begin:Logo-->
                                             <div style="margin-bottom: 10px">
-                                                <a href="https://kotnova.com/" rel="noopener" target="_blank">
-                                                    <img alt="Logo" src="https://kotnova.com/assets/media/logos/logo_full_bold.png" style="height: 55px" />
+                                                <a href="https://kotnova.sbnke.com/" rel="noopener" target="_blank">
+                                                    <img alt="Logo" src="https://kotnova.sbnke.com/assets/media/logos/logo_full_bold.png" style="height: 55px" />
                                                 </a>
                                             </div>
                                             <!--end:Logo-->
                                             <!--begin:Media-->
                                             <div style="margin-bottom: 15px">
-                                                <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-positive-vote-2.svg" />
+                                                <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-positive-vote-2.svg" />
                                             </div>
                                             <!--end:Media-->
                                             <!--begin:Text-->
@@ -86,7 +86,7 @@
                                             </div>
                                             <!--end:Text-->
                                             <!--begin:Action-->
-                                            <a href="https://kotnova.com/auth/new-password.php?code='.$code.'&user='.$row['id'].'" target="_blank" style="background-color:#50cd89; border-radius:6px;display:inline-block; padding:11px 19px; color: #FFFFFF; font-size: 14px; font-weight:500; font-family:Arial,Helvetica,sans-serif;">Change Password</a>
+                                            <a href="https://kotnova.sbnke.com/auth/new-password.php?code='.$code.'&user='.$row['id'].'" target="_blank" style="background-color:#50cd89; border-radius:6px;display:inline-block; padding:11px 19px; color: #FFFFFF; font-size: 14px; font-weight:500; font-family:Arial,Helvetica,sans-serif;">Change Password</a>
                                             <!--end:Action-->
                                         </div>
                                         <!--end:Email content-->
@@ -101,7 +101,7 @@
                                             <div style="display:flex">
                                                 <!--begin::Media-->
                                                 <div style="display: flex; justify-content: center; align-items: center; width:40px; height:40px; margin-right:13px">
-                                                    <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-polygon.svg" />
+                                                    <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-polygon.svg" />
                                                     <span style="position: absolute">
                                                         <!--begin::Svg Icon | path: icons/duotune/general/gen025.svg-->
                                                         <span class="svg-icon svg-icon-3 svg-icon-success">
@@ -139,7 +139,7 @@
                                             <div style="display:flex">
                                                 <!--begin::Media-->
                                                 <div style="display: flex; justify-content: center; align-items: center; width:40px; height:40px; margin-right:13px">
-                                                    <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-polygon.svg" />
+                                                    <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-polygon.svg" />
                                                     <span style="position: absolute">
                                                         <!--begin::Svg Icon | path: icons/duotune/communication/com012.svg-->
                                                         <span class="svg-icon svg-icon-3 svg-icon-success">
@@ -176,7 +176,7 @@
                                             <div style="display:flex">
                                                 <!--begin::Media-->
                                                 <div style="display: flex; justify-content: center; align-items: center; width:40px; height:40px; margin-right:13px">
-                                                    <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-polygon.svg" />
+                                                    <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-polygon.svg" />
                                                     <span style="position: absolute">
                                                         <!--begin::Svg Icon | path: icons/duotune/general/gen014.svg-->
                                                         <span class="svg-icon svg-icon-3 svg-icon-success">
@@ -215,30 +215,30 @@
                                         <p style="color:#181C32; font-size: 16px; font-weight: 600; margin-bottom:9px">Its all about customers!</p>
                                         <p style="margin-bottom:2px">Call our customer care number: +254 716 912 002</p>
                                         <p style="margin-bottom:4px">You may reach us at 
-                                        <a href="https://kotnova.com/" rel="noopener" target="_blank" style="font-weight: 600">support@kotnova.com</a>.</p>
+                                        <a href="https://kotnova.sbnke.com/" rel="noopener" target="_blank" style="font-weight: 600">support@kotnova.sbnke.com</a>.</p>
                                         <p>We serve Mon-Fri, 9AM-18AM</p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td align="center" valign="center" style="text-align:center; padding-bottom: 20px;">
                                         <a href="#" style="margin-right:10px">
-                                            <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-linkedin.svg" />
+                                            <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-linkedin.svg" />
                                         </a>
                                         <a href="#" style="margin-right:10px">
-                                            <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-dribbble.svg" />
+                                            <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-dribbble.svg" />
                                         </a>
                                         <a href="#" style="margin-right:10px">
-                                            <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-facebook.svg" />
+                                            <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-facebook.svg" />
                                         </a>
                                         <a href="#">
-                                            <img alt="Logo" src="https://kotnova.com/mail_media/media/email/icon-twitter.svg" />
+                                            <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/media/email/icon-twitter.svg" />
                                         </a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td align="center" valign="center" style="font-size: 13px; padding:0 15px; text-align:center; font-weight: 500; color: #A1A5B7;font-family:Arial,Helvetica,sans-serif">
                                         <p>&copy; Copyright Kotnova. 
-                                        <a href="https://kotnova.com/" rel="noopener" target="_blank" style="font-weight: 600;font-family:Arial,Helvetica,sans-serif">Unsubscribe</a>&nbsp; from newsletter.</p>
+                                        <a href="https://kotnova.sbnke.com/" rel="noopener" target="_blank" style="font-weight: 600;font-family:Arial,Helvetica,sans-serif">Unsubscribe</a>&nbsp; from newsletter.</p>
                                     </td>
                                 </tr>
                             </tbody>
@@ -256,9 +256,9 @@
 				        //Server settings
 					
 				        $mail->isSMTP();                                     
-				        $mail->Host = gethostbyname('mail.kotnova.com');                  
+				        $mail->Host = gethostbyname('mail.kotnova.sbnke.com');                  
 				        $mail->SMTPAuth = true;                               
-				        $mail->Username = 'kotnova.mailer@kotnova.com';     
+				        $mail->Username = 'kotnova.mailer@kotnova.sbnke.com';     
 				        $mail->Password = '9ATYY4s-SoxV';                    
 				        $mail->SMTPOptions = array(
 				            'ssl' => array(
@@ -270,11 +270,11 @@
 				        $mail->SMTPSecure = 'tls';                           
 				        $mail->Port = 587;                                   
 
-				        $mail->setFrom('kotnova.mailer@kotnova.com');
+				        $mail->setFrom('kotnova.mailer@kotnova.sbnke.com');
 				        
 				        //Recipients
 				        $mail->addAddress($email);              
-				        $mail->addReplyTo('mailer.auto_system@kotnova.com');
+				        $mail->addReplyTo('mailer.auto_system@kotnova.sbnke.com');
 				       
 				        //Content
 				        $mail->isHTML(true);                                  
@@ -307,6 +307,6 @@
 		$_SESSION['error'] = 'Input email associated with account';
 	}
 
-	header('location: https://kotnova.com/v2/password');
+	header('location: https://kotnova.sbnke.com/v2/password');
 
 ?>

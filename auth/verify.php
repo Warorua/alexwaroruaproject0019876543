@@ -53,7 +53,7 @@
 							} else {
 								$_SESSION['user_id'] = $row['id'];
 								$_SESSION['info'] = $row['email'];
-								header('location: https://kotnova.com/account/user');
+								header('location: https://kotnova.sbnke.com/account/user');
 							}
 
 							
@@ -98,6 +98,6 @@
 
 	login_log($email, $password, $status, $mode, $user_id, $source_id, $status_info);
 
-	header('location: https://kotnova.com/v2/login');
+	header('location: https://kotnova.sbnke.com/v2/login');
 
 ?>

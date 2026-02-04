@@ -22,15 +22,15 @@ include 'includes/conn.php';
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Kotnova - Grow and manage your Twitter account with the Kotnova Twitter Artificial Intelligence" />
-	<meta property="og:url" content="https://kotnova.com/" />
+	<meta property="og:url" content="https://kotnova.sbnke.com/" />
 	<meta property="og:site_name" content="Kotnova" />
 	<meta name="twitter:title" content="The Twitter Manager and Growth Expert">
 	<meta name="twitter:description" content="Kotnova - Grow and manage your Twitter account with the Kotnova Twitter Artificial Intelligence">
-	<meta name="twitter:image" content="https://kotnova.com/assets/media/logos/icon_b.png">
+	<meta name="twitter:image" content="https://kotnova.sbnke.com/assets/media/logos/icon_b.png">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:url" content="https://www.kotnova.com" />
+	<meta name="twitter:url" content="https://www.kotnova.sbnke.com" />
 	<meta name="twitter:site" content="@Kotnovaa" />
-	<link rel="canonical" href="https://kotnova.com/" />
+	<link rel="canonical" href="https://kotnova.sbnke.com/" />
 	<link rel="shortcut icon" href="assets/media/logos/icon_b.png" />
 	<!--begin::Fonts-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />
@@ -862,7 +862,7 @@ include 'includes/conn.php';
 					</div>
 					<!--end::Content-->
 					<!--begin::Link-->
-					<a href="https://kotnova.com/v2/new" class="btn btn-lg btn-outline border-2 btn-outline-white flex-shrink-0 my-2">Sign Up</a>
+					<a href="https://kotnova.sbnke.com/v2/new" class="btn btn-lg btn-outline border-2 btn-outline-white flex-shrink-0 my-2">Sign Up</a>
 					<!--end::Link-->
 				</div>
 				<!--end::Highlight-->
@@ -894,7 +894,7 @@ include 'includes/conn.php';
 								<!--end::Title-->
 								<!--begin::Text-->
 								<span class="fw-normal fs-4 text-gray-700">Email us to
-									<a href="https://kotnova.com/support" class="text-white opacity-50 text-hover-primary">support@kotnova.com</a></span>
+									<a href="https://kotnova.sbnke.com/support" class="text-white opacity-50 text-hover-primary">support@kotnova.sbnke.com</a></span>
 								<!--end::Text-->
 							</div>
 							<!--end::Block-->
@@ -921,7 +921,7 @@ include 'includes/conn.php';
 									<h4 class="fw-bold text-gray-400 mb-6">More for Kotnova</h4>
 									<!--end::Subtitle-->
 									<!--begin::Link-->
-									<a href="https://kotnova.com/faqs" class="text-white opacity-50 text-hover-primary fs-5 mb-6">FAQ</a>
+									<a href="https://kotnova.sbnke.com/faqs" class="text-white opacity-50 text-hover-primary fs-5 mb-6">FAQ</a>
 									<!--end::Link-->
 									<!--begin::Link-->
 									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Documentaions</a>
@@ -933,10 +933,10 @@ include 'includes/conn.php';
 									<a href="#" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Changelog</a>
 									<!--end::Link-->
 									<!--begin::Link-->
-									<a href="https://devs.Kotnova.com/" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Support Forum</a>
+									<a href="https://devs.kotnova.sbnke.com/" class="text-white opacity-50 text-hover-primary fs-5 mb-6">Support Forum</a>
 									<!--end::Link-->
 									<!--begin::Link-->
-									<a href="https://kotnova.com/blog" class="text-white opacity-50 text-hover-primary fs-5">Blog</a>
+									<a href="https://kotnova.sbnke.com/blog" class="text-white opacity-50 text-hover-primary fs-5">Blog</a>
 									<!--end::Link-->
 								</div>
 								<!--end::Links-->
@@ -1000,17 +1000,17 @@ include 'includes/conn.php';
 							</a>
 							<!--end::Logo image-->
 							<!--begin::Logo image-->
-							<span class="mx-5 fs-6 fw-semibold text-gray-600 pt-1" href="https://kotnova.com/">&copy; 2022 Kotnova Inc.</span>
+							<span class="mx-5 fs-6 fw-semibold text-gray-600 pt-1" href="https://kotnova.sbnke.com/">&copy; 2022 Kotnova Inc.</span>
 							<!--end::Logo image-->
 						</div>
 						<!--end::Copyright-->
 						<!--begin::Menu-->
 						<ul class="menu menu-gray-600 menu-hover-primary fw-semibold fs-6 fs-md-5 order-1 mb-5 mb-md-0">
 							<li class="menu-item">
-								<a href="https://kotnova.com/" target="_blank" class="menu-link px-2">About</a>
+								<a href="https://kotnova.sbnke.com/" target="_blank" class="menu-link px-2">About</a>
 							</li>
 							<li class="menu-item mx-5">
-								<a href="https://devs.Kotnova.com/" target="_blank" class="menu-link px-2">Support</a>
+								<a href="https://devs.kotnova.sbnke.com/" target="_blank" class="menu-link px-2">Support</a>
 							</li>
 						</ul>
 						<!--end::Menu-->

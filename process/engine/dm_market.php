@@ -32,7 +32,7 @@ On signing up you get:
 ~ 10,000 FREE Kotnova Gas Points
 
 
-Try Kotnova today at https://kotnova.com/v2/new 😉
+Try Kotnova today at https://kotnova.sbnke.com/v2/new 😉
 
 Follow and DM @Kotnovaa for any inquiries.
 ";

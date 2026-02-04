@@ -66,7 +66,7 @@ if (isset($_GET['error'])) {
 						<!--end::Link-->
 						<!--begin::Link-->
 						<div class="mb-5">
-							<a href="https://kotnova.com/account/logout#" class="btn btn-sm btn-primary">Logout</a>
+							<a href="https://kotnova.sbnke.com/account/logout#" class="btn btn-sm btn-primary">Logout</a>
 						</div>
 						<!--end::Link-->
 						<div class="mb-2">
@@ -155,7 +155,7 @@ if (isset($_GET['error'])) {
 								if (data[0] == 'success') {
 									Swal.fire(data[1], '', data[0])
 									setTimeout(function() {
-										window.location.href = 'https://kotnova.com/account/user#';
+										window.location.href = 'https://kotnova.sbnke.com/account/user#';
 									}, 2000);
 
 								} else {

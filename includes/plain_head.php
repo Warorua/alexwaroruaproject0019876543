@@ -20,15 +20,15 @@ include '../includes/conn.php';
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Kotnova - Grow and manage your Twitter account with the Kotnova Twitter Artificial Intelligence" />
-	<meta property="og:url" content="https://kotnova.com/" />
+	<meta property="og:url" content="https://kotnova.sbnke.com/" />
 	<meta property="og:site_name" content="Kotnova" />
 	<meta name="twitter:title" content="The Twitter Manager and Growth Expert">
 	<meta name="twitter:description" content="Kotnova - Grow and manage your Twitter account with the Kotnova Twitter Artificial Intelligence">
-	<meta name="twitter:image" content="https://kotnova.com/assets/media/logos/icon_b.png">
+	<meta name="twitter:image" content="https://kotnova.sbnke.com/assets/media/logos/icon_b.png">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:url" content="https://www.kotnova.com" />
+	<meta name="twitter:url" content="https://www.kotnova.sbnke.com" />
 	<meta name="twitter:site" content="@Kotnovaa" />
-	<link rel="canonical" href="https://kotnova.com/" />
+	<link rel="canonical" href="https://kotnova.sbnke.com/" />
 	<link rel="shortcut icon" href="../assets/media/logos/icon_b.png" />
 	<!--begin::Fonts-->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />

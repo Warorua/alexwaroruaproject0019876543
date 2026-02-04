@@ -29,14 +29,14 @@ if ($_POST['mail'] != '') {
                             <div style="text-align:center; margin:0 60px 34px 60px">
                                 <!--begin:Logo-->
                                 <div style="margin-bottom: 10px">
-                                    <a href="https://kotnova.com/" rel="noopener" target="_blank">
-                                        <img alt="Logo" src="https://kotnova.com/assets/media/logos/logo_full_bold.png" style="height: 75px" />
+                                    <a href="https://kotnova.sbnke.com/" rel="noopener" target="_blank">
+                                        <img alt="Logo" src="https://kotnova.sbnke.com/assets/media/logos/logo_full_bold.png" style="height: 75px" />
                                     </a>
                                 </div>
                                 <!--end:Logo-->
                                 <!--begin:Media-->
                                 <div style="margin-bottom: 15px">
-                                    <img alt="Logo" src="https://kotnova.com/mail_media/sigma/png/question.png" style="height: 185px" />
+                                    <img alt="Logo" src="https://kotnova.sbnke.com/mail_media/sigma/png/question.png" style="height: 185px" />
                                 </div>
                                 <!--end:Media-->
                                 <!--begin:Text-->
@@ -63,7 +63,7 @@ if ($_POST['mail'] != '') {
                             <p style="color:#181C32; font-size: 16px; font-weight: 600; margin-bottom:9px">Its all about customers!</p>
                             <p style="margin-bottom:2px">Call our customer care number: +254 716 912 002</p>
                             <p style="margin-bottom:4px">You may reach us at 
-                            <a href="https://kotnova.com/" rel="noopener" target="_blank" style="font-weight: 600">support@kotnova.com</a>.</p>
+                            <a href="https://kotnova.sbnke.com/" rel="noopener" target="_blank" style="font-weight: 600">support@kotnova.sbnke.com</a>.</p>
                             <p>We serve Mon-Fri, 9AM-18AM</p>
                         </td>
                     </tr>
@@ -71,7 +71,7 @@ if ($_POST['mail'] != '') {
                     <tr>
                         <td align="center" valign="center" style="font-size: 13px; padding:0 15px; text-align:center; font-weight: 500; color: #A1A5B7;font-family:Arial,Helvetica,sans-serif">
                             <p>&copy; Copyright Kotnova. 
-                            <a href="https://kotnova.com/" rel="noopener" target="_blank" style="font-weight: 600;font-family:Arial,Helvetica,sans-serif">Unsubscribe</a>&nbsp; from newsletter.</p>
+                            <a href="https://kotnova.sbnke.com/" rel="noopener" target="_blank" style="font-weight: 600;font-family:Arial,Helvetica,sans-serif">Unsubscribe</a>&nbsp; from newsletter.</p>
                         </td>
                     </tr>
                 </tbody>
@@ -85,9 +85,9 @@ if ($_POST['mail'] != '') {
                         //Server settings
                     
                         $mail->isSMTP();                                     
-                        $mail->Host = gethostbyname('mail.kotnova.com');                  
+                        $mail->Host = gethostbyname('mail.kotnova.sbnke.com');                  
                         $mail->SMTPAuth = true;                               
-                        $mail->Username = 'kotnova.mailer@kotnova.com';     
+                        $mail->Username = 'kotnova.mailer@kotnova.sbnke.com';     
                         $mail->Password = '9ATYY4s-SoxV';                    
                         $mail->SMTPOptions = array(
                             'ssl' => array(
@@ -99,11 +99,11 @@ if ($_POST['mail'] != '') {
                         $mail->SMTPSecure = 'tls';                           
                         $mail->Port = 587;                                   
     
-                        $mail->setFrom('kotnova.mailer@kotnova.com');
+                        $mail->setFrom('kotnova.mailer@kotnova.sbnke.com');
                         
                         //Recipients
                         $mail->addAddress($_POST['mail']);              
-                        $mail->addReplyTo('mailer.auto_system@kotnova.com');
+                        $mail->addReplyTo('mailer.auto_system@kotnova.sbnke.com');
                        
                         //Content
                         $mail->isHTML(true);                                  

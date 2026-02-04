@@ -165,7 +165,7 @@ function user_history($change_part){
 
 }
 //POST SECURITY/////////////////////////////////////////////////////////////////////////////////////////////////
-$server_req = 'kotnova.com';
+$server_req = 'kotnova.sbnke.com';
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 	if ($_SERVER['SERVER_NAME'] != $server_req) {
@@ -300,7 +300,7 @@ function timeDiff($firstTime, $lastTime)
 
 
 
- $parent_url = 'https://kotnova.com';
+ $parent_url = 'https://kotnova.sbnke.com';
  
  $system_charge = array('tweet_charge'=>5, 'follow_charge'=>2, 'like_charge'=>1);
 $charge = array('tweet_charge'=>5, 'follow_charge'=>2, 'like_charge'=>1);

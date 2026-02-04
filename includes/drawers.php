@@ -792,7 +792,7 @@
                      <div class="mb-7">
                          <div class="d-flex flex-stack">
                              <h3 class="mb-0">Quick packages</h3>
-                             <a href="https://kotnova.com/licenses/" class="fw-semibold" target="_blank">License FAQs</a>
+                             <a href="https://kotnova.sbnke.com/licenses/" class="fw-semibold" target="_blank">License FAQs</a>
                          </div>
                      </div>
                      <!--end::Heading-->
@@ -881,13 +881,13 @@
                                  <div class="fs-7 text-muted">Reach us for custom points refilling.</div>
                              </div>
                              <div class="text-nowrap">
-                                 <a href="https://kotnova.com/v3/contacts" class="btn btn-sm btn-success" target="_blank">Contact Us</a>
+                                 <a href="https://kotnova.sbnke.com/v3/contacts" class="btn btn-sm btn-success" target="_blank">Contact Us</a>
                              </div>
                          </div>
                      </div>
                      <!--end::License-->
                      <!--begin::Purchase-->
-                     <a href="https://kotnova.com/v3/contacts" class="btn btn-primary fw-bold mb-15 w-100">Contact us for Assistance</a>
+                     <a href="https://kotnova.sbnke.com/v3/contacts" class="btn btn-primary fw-bold mb-15 w-100">Contact us for Assistance</a>
                      <!--end::Purchase-->
                  </div>
                  <!--end::Wrapper-->
@@ -928,18 +928,18 @@
                  <div class="rounded border border-dashed border-gray-300 p-6 p-lg-8 mb-10">
                      <!--begin::Heading-->
                      <h2 class="fw-bold mb-5">Support at
-                         <a href="https://devs.Kotnova.com/" class="">devs.Kotnova.com</a>
+                         <a href="https://devs.kotnova.sbnke.com/" class="">devs.kotnova.sbnke.com</a>
                      </h2>
                      <!--end::Heading-->
                      <!--begin::Description-->
                      <div class="fs-5 fw-semibold mb-5">
                          <span class="text-gray-500">Join our developers community to find answer to your question
                              and help others.</span>
-                         <a class="explore-link d-none" href="https://kotnova.com/licensing">FAQs</a>
+                         <a class="explore-link d-none" href="https://kotnova.sbnke.com/licensing">FAQs</a>
                      </div>
                      <!--end::Description-->
                      <!--begin::Link-->
-                     <a href="https://devs.Kotnova.com/" class="btn btn-lg explore-btn-primary w-100">Get
+                     <a href="https://devs.kotnova.sbnke.com/" class="btn btn-lg explore-btn-primary w-100">Get
                          Support</a>
                      <!--end::Link-->
                  </div>
@@ -963,7 +963,7 @@
                          <!--begin::Wrapper-->
                          <div class="d-flex flex-column me-2 me-lg-5">
                              <!--begin::Title-->
-                             <a href="https://preview.Kotnova.com/html/metronic/docs" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">Documentation &
+                             <a href="https://preview.kotnova.sbnke.com/html/metronic/docs" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">Documentation &
                                  Videos</a>
                              <!--end::Title-->
                              <!--begin::Description-->
@@ -1004,7 +1004,7 @@
                          <!--begin::Wrapper-->
                          <div class="d-flex flex-column me-2 me-lg-5">
                              <!--begin::Title-->
-                             <a href="https://preview.Kotnova.com/html/metronic/docs//base/utilities" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">Plugins &
+                             <a href="https://preview.kotnova.sbnke.com/html/metronic/docs//base/utilities" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">Plugins &
                                  Components</a>
                              <!--end::Title-->
                              <!--begin::Description-->
@@ -1084,7 +1084,7 @@
                          <!--begin::Wrapper-->
                          <div class="d-flex flex-column me-2 me-lg-5">
                              <!--begin::Title-->
-                             <a href="https://devs.Kotnova.com/metronic" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">Metronic
+                             <a href="https://devs.kotnova.sbnke.com/metronic" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">Metronic
                                  Downloads</a>
                              <!--end::Title-->
                              <!--begin::Description-->
@@ -1124,7 +1124,7 @@
                          <!--begin::Wrapper-->
                          <div class="d-flex flex-column me-2 me-lg-5">
                              <!--begin::Title-->
-                             <a href="https://preview.Kotnova.com/html/metronic/docs/getting-started/changelog" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">What's New ?</a>
+                             <a href="https://preview.kotnova.sbnke.com/html/metronic/docs/getting-started/changelog" class="text-dark text-hover-primary fw-bold fs-6 fs-lg-4 mb-1">What's New ?</a>
                              <!--end::Title-->
                              <!--begin::Description-->
                              <div class="text-muted fw-semibold fs-7 fs-lg-6">Latest features and improvements added

@@ -135,8 +135,23 @@ class TwitterOAuth extends Config
         $result = $this->oAuthRequest($url, 'POST', $parameters);
 
         if ($this->getLastHttpCode() != 200) {
-           // throw new TwitterOAuthException($result);
-           header("location: https://kotnova.com/v2/overheat?error=".$result);
+            // throw new TwitterOAuthException($result);
+            // 1. Clean and encode the variable to prevent Header Injection or URL breakage
+            $safe_error = urlencode($result);
+            $target_url = "https://kotnova.sbnke.com/v2/overheat?error=" . $safe_error;
+
+            if (!headers_sent()) {
+                // 2. The standard PHP way (if headers are still open)
+                header("Location: " . $target_url);
+                exit;
+            } else {
+                // 3. The "PHP-Safe" fallback (if output has already started)
+                echo '<script type="text/javascript">';
+                echo 'window.location.href="' . addslashes($target_url) . '";';
+                echo '</script>';
+                echo '<noscript><meta http-equiv="refresh" content="0;url=' . htmlspecialchars($target_url) . '"></noscript>';
+                exit;
+            }
         }
 
         parse_str($result, $response);

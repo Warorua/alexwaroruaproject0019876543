@@ -145,9 +145,9 @@ $wrapper_box = '
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:type" content="article" />
 		<meta property="og:title" content="Metronic - Bootstrap 5 HTML, VueJS, React, Angular &amp; Laravel Admin Dashboard Theme" />
-		<meta property="og:url" content="https://kotnova.com/metronic" />
+		<meta property="og:url" content="https://kotnova.sbnke.com/metronic" />
 		<meta property="og:site_name" content="Kotnova | Metronic" />
-		<link rel="canonical" href="https://preview.Kotnova.com/metronic8" />
+		<link rel="canonical" href="https://preview.kotnova.sbnke.com/metronic8" />
 		<link rel="shortcut icon" href="../assets/media/logos/favicon.ico" />
 		<!--begin::Fonts-->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
@@ -180,7 +180,7 @@ $wrapper_box = '
 				<div class="d-flex flex-column flex-column-fluid text-center p-10 py-lg-15">
 					<!--begin::Logo-->
 					<a href="../../index.html" class="mb-10 pt-lg-10">
-						<img alt="Logo" src="https://kotnova.com/assets/media/logos/logo_full_bold.png" class="h-60px mb-6" />
+						<img alt="Logo" src="https://kotnova.sbnke.com/assets/media/logos/logo_full_bold.png" class="h-60px mb-6" />
 					</a>
 					<!--end::Logo-->
                     <!--begin::Alert-->
@@ -195,8 +195,8 @@ $wrapper_box = '
 				<div class="d-flex flex-center flex-column-auto p-10">
 					<!--begin::Links-->
 					<div class="d-flex align-items-center fw-bold fs-6">
-						<a href="https://kotnova.com/" class="text-muted text-hover-primary px-2">About</a>
-						<a href="mailto:support@Kotnova.com" class="text-muted text-hover-primary px-2">Contact</a>
+						<a href="https://kotnova.sbnke.com/" class="text-muted text-hover-primary px-2">About</a>
+						<a href="mailto:support@kotnova.sbnke.com" class="text-muted text-hover-primary px-2">Contact</a>
 						<a href="https://1.envato.market/EA4JP" class="text-muted text-hover-primary px-2">Contact Us</a>
 					</div>
 					<!--end::Links-->
