@@ -37,7 +37,7 @@ if (isset($_GET['error'])) {
 	<!--End::Google Tag Manager (noscript) -->
 	<!--begin::Main-->
 	<!--begin::Root-->
-	<div class="d-flex flex-column flex-root">
+	<div class="d-flex flex-column flex-root col-md-12">
 		<!--begin::Page bg image-->
 		<!--end::Page bg image-->
 		<!--begin::Authentication - Signup Welcome Message -->
@@ -51,7 +51,7 @@ if (isset($_GET['error'])) {
 						<h1 class="fw-bolder fs-2qx text-gray-900 mb-4">System Error</h1>
 						<!--end::Title-->
 						<!--begin::Text-->
-						<div class="fw-semibold fs-6 text-gray-500 mb-7 col-md-12"><?php echo $message ?></div>
+						<div class="fw-semibold fs-6 text-gray-500 mb-7"><?php echo $message ?></div>
 						<!--end::Text-->
 						<!--begin::Illustration-->
 						<div class="mb-11">
