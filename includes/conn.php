@@ -8,9 +8,9 @@ session_set_cookie_params(3600);
 
 Class Database{
  
-	private $server = "mysql:host=45.84.206.68;dbname=tsavosit_tweetbot";
-	private $username = "tsavosit_tweetbot";
-	private $password = "OePN1FuEFVbm";
+	private $server = "mysql:host=77.37.35.11;dbname=u854855859_kotnova";
+	private $username = "u854855859_kotnova";
+	private $password = "+oFgRHc0p!Z6";
 	private $options  = array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,);
 	protected $conn;
  	
