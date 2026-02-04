@@ -1,5 +1,5 @@
 #Files to ignore
-conn.php
+# conn.php
 lab?.php
 lab??.php
 account/lab3.php

@@ -15,6 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] != 'POST') {
 
 // try {
 $_SESSION['filess'] =  $_FILES;
+
 if (isset($_FILES['file']['name'])) {
 
 
